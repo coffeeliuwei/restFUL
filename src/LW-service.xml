@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config>
+
+	<service name="Hello" class="com.coffee.lession04.HelloDo" /> 
+	
+	<service name="HowOld" class="com.coffee.lession04.HowOldDo" /> 
+	
+	<service name="AreYouGood" class="com.coffee.lession04.AreYouGoodDo" /> 
+	
+	<service name="WhatTimeNow" class="com.coffee.lession04.WhatTimeNowDo" /> 
+	
+	<service name="StudentList" class="com.coffee.lession05.StudentListDo" /> 
+	
+	<service name="Example" class="com.coffee.lession05.ExampleDo" /> 
+	
+</config>
